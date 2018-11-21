@@ -10,7 +10,7 @@ Time spent: **20** hours spent in total
 - Summary:
 - Total Attack(s): 3861
 - Total Malware(s): 1
-- GIF Walkthrough: ![Live Capture](https://github.com/riyadhhossain01/codepath/blob/master/week9/Honey%20Pot.gif)
+- GIF Walkthrough: ![Live Capture](https://github.com/SabrinaEfat/Web-Security/blob/master/week%239/Honey%20Pot.gif)
 - Attack data has been added below
 ## Issues Faced
 
